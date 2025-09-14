@@ -2,27 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-13T22:03:55 IST" name="Suite" finished-at="2025-09-13T22:04:56 IST" duration-ms="61230">
+  <suite started-at="2025-09-14T09:09:19 IST" name="Suite" finished-at="2025-09-14T09:11:26 IST" duration-ms="127231">
     <groups>
     </groups>
-    <test started-at="2025-09-13T22:03:55 IST" name="ChromeTest" finished-at="2025-09-13T22:04:14 IST" duration-ms="18918">
+    <test started-at="2025-09-14T09:09:19 IST" name="EdgeTest" finished-at="2025-09-14T09:11:13 IST" duration-ms="113790">
       <class name="SeleniumGrid.testingBrowser">
-        <test-method signature="CrossTesting(java.lang.String)[pri:0, instance:SeleniumGrid.testingBrowser@7f0eb4b4]" started-at="2025-09-13T22:03:55 IST" name="CrossTesting" finished-at="2025-09-13T22:04:14 IST" duration-ms="18653" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CrossTesting -->
-      </class> <!-- SeleniumGrid.testingBrowser -->
-    </test> <!-- ChromeTest -->
-    <test started-at="2025-09-13T22:03:55 IST" name="EdgeTest" finished-at="2025-09-13T22:04:35 IST" duration-ms="39364">
-      <class name="SeleniumGrid.testingBrowser">
-        <test-method signature="CrossTesting(java.lang.String)[pri:0, instance:SeleniumGrid.testingBrowser@62379589]" started-at="2025-09-13T22:03:55 IST" name="CrossTesting" finished-at="2025-09-13T22:04:35 IST" duration-ms="39106" status="PASS">
+        <test-method signature="CrossTesting(java.lang.String)[pri:0, instance:SeleniumGrid.testingBrowser@5bf0d49]" started-at="2025-09-14T09:09:19 IST" name="CrossTesting" finished-at="2025-09-14T09:11:13 IST" duration-ms="113545" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,9 +20,24 @@
         </test-method> <!-- CrossTesting -->
       </class> <!-- SeleniumGrid.testingBrowser -->
     </test> <!-- EdgeTest -->
-    <test started-at="2025-09-13T22:03:55 IST" name="FirefoxTest" finished-at="2025-09-13T22:04:56 IST" duration-ms="61230">
+    <test started-at="2025-09-14T09:09:19 IST" name="ChromeTest" finished-at="2025-09-14T09:11:18 IST" duration-ms="118787">
       <class name="SeleniumGrid.testingBrowser">
-        <test-method signature="CrossTesting(java.lang.String)[pri:0, instance:SeleniumGrid.testingBrowser@13c9d689]" started-at="2025-09-13T22:03:55 IST" name="CrossTesting" finished-at="2025-09-13T22:04:56 IST" duration-ms="60970" status="PASS">
+        <test-method signature="CrossTesting(java.lang.String)[pri:0, instance:SeleniumGrid.testingBrowser@c8c12ac]" started-at="2025-09-14T09:09:19 IST" name="CrossTesting" finished-at="2025-09-14T09:11:18 IST" duration-ms="118554" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrossTesting -->
+      </class> <!-- SeleniumGrid.testingBrowser -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2025-09-14T09:09:19 IST" name="FirefoxTest" finished-at="2025-09-14T09:11:26 IST" duration-ms="127231">
+      <class name="SeleniumGrid.testingBrowser">
+        <test-method signature="CrossTesting(java.lang.String)[pri:0, instance:SeleniumGrid.testingBrowser@4afcd809]" started-at="2025-09-14T09:09:19 IST" name="CrossTesting" finished-at="2025-09-14T09:11:26 IST" duration-ms="126998" status="PASS">
           <params>
             <param index="0">
               <value>
